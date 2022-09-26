@@ -1,6 +1,6 @@
 <p align="center">Hi there, I'm Fajar Sartia 👋</p>
 
-<p align="center"><img src="https://www.codewars.com/users/adityaerlangga2003/badges/large"/><br/></p>
+<p align="center"><img src="https://www.codewars.com/users/khuchuz/badges/large"/><br/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khuchuz&layout=compact&theme=maroongold&langs_count=12"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuchuz&layout=compact&theme=maroongold&langs_count=12"/></p>
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
